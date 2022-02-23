@@ -1,0 +1,1 @@
+const e={key:"v-2afb0748",path:"/tjap_guide/resources.html",title:"\u76F8\u5173\u8D44\u6E90",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[{level:2,title:"\u5B57\u4F53",slug:"\u5B57\u4F53",children:[]},{level:2,title:"\u66F2\u5305",slug:"\u66F2\u5305",children:[]}],git:{},filePathRelative:"tjap_guide/resources.md"};export{e as data};
