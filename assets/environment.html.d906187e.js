@@ -1,0 +1,1 @@
+const e={key:"v-02904b1a",path:"/tjap_guide/environment.html",title:"\u4F9D\u8D56\u73AF\u5883",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[{level:2,title:".NET Framework",slug:"net-framework",children:[]},{level:2,title:"DirectX",slug:"directx",children:[]}],git:{},filePathRelative:"tjap_guide/environment.md"};export{e as data};
