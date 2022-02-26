@@ -1,0 +1,1 @@
+const t={key:"v-b468f956",path:"/tjap_guide/getting-started.html",title:"\u5FEB\u901F\u4E0A\u624B",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[],git:{},filePathRelative:"tjap_guide/getting-started.md"};export{t as data};
