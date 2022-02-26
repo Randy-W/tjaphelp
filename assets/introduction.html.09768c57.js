@@ -1,1 +1,0 @@
-const t={key:"v-408a0f0b",path:"/tjap_guide/introduction.html",title:"TJAPlayer3",lang:"zh-CN",frontmatter:{},excerpt:"",headers:[{level:2,title:"\u6982\u89C8",slug:"\u6982\u89C8",children:[]},{level:2,title:"\u4E3B\u8981\u5206\u652F",slug:"\u4E3B\u8981\u5206\u652F",children:[]}],git:{},filePathRelative:"tjap_guide/introduction.md"};export{t as data};
